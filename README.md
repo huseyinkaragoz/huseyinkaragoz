@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🔭 I'm a Senior Android developer.
 - 🌱 I’m currently using [Kotlin](https://kotlinlang.org) and [Jetpack Compose](https://developer.android.com/jetpack/compose).
-- 🌱 I’m currently learning [Kotlin Multiplatform](https://www.jetbrains.com/kotlin-multiplatform) and [Kotlin for Server Side]((https://kotlinlang.org/server-side/)).
+- 🌱 I’m currently learning [Kotlin Multiplatform](https://www.jetbrains.com/kotlin-multiplatform) and [Kotlin for Server Side](https://kotlinlang.org/server-side/).
 - 🤓 I'm also Co-Organizer [GDG Istanbul](https://gdg.community.dev/gdg-istanbul/)
 - 💬 Let's talk and work together.
 
