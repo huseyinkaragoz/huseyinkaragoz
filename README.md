@@ -16,7 +16,7 @@ Kotlin · Jetpack Compose · Kotlin Multiplatform · SDUI · Clean/MVI
 
 ### Selected work
 - **ThinkingUI** — A2UI-aligned AI UI generation engine ([article](#))
-- **QuickSudoku** — offline Sudoku, live on Play Store
+- **QuickSudoku** — offline Sudoku, live on Play Store (FlutterProject)
 - **MineField** — Kotlin Multiplatform game with a TDD engine (25 tests)
 - **PickEat** — Clean Architecture + Hilt reference app
 
