@@ -1,22 +1,24 @@
 ## Hüseyin Karagöz
 
 Senior Android Engineer (9+ yrs). I design server-driven and
-AI-generated UI architectures for large-scale, offline-first Android apps.
+AI-generated UI architectures and author cross-platform SDKs.
 
-Kotlin · Jetpack Compose · Kotlin Multiplatform · SDUI · Clean/MVI
+Kotlin · Jetpack Compose · Kotlin Multiplatform · React Native · SDUI · Clean/MVI
 
 ### What I focus on
 - **Server-Driven & AI-generated UI:** built ThinkingUI, an A2UI-aligned
   UI generation engine, before Google standardized the spec.
+- **SDK & cross-platform design:** authored production SDKs consumed by
+  other apps, including a React Native SDK with native Kotlin/Swift bridges.
 - **Large-scale offline-first architecture:** normalized SQLite schema
   design, projection-query performance, and SDUI rendering with config
   versioning and fallback layouts.
-- **Fintech / Open Banking:** PSD2 & GDPR-compliant SDK work from years
+- **Fintech / Open Banking:** PSD2 & GDPR-compliant work from years
   in banking.
 
 ### Selected work
 - **ThinkingUI** — A2UI-aligned AI UI generation engine ([article](#))
-- **QuickSudoku** — offline Sudoku, live on Play Store (FlutterProject)
+- **QuickSudoku** — offline Sudoku, live on Play Store (Flutter Project)
 - **MineField** — Kotlin Multiplatform game with a TDD engine (25 tests)
 - **PickEat** — Clean Architecture + Hilt reference app
 
