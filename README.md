@@ -1,49 +1,32 @@
-## Hi there 👋
+## Hüseyin Karagöz
 
-<!--
-**huseyinkaragoz/huseyinkaragoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Android Engineer (9+ yrs). I design server-driven and
+AI-generated UI architectures and ship production Android for the
+in-flight entertainment screens at Turkish Airlines.
 
-Here are some ideas to get you started:
+Kotlin · Jetpack Compose · Kotlin Multiplatform · SDUI · Clean/MVI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Hello 👋, I am Hüseyin.
+### What I focus on
+- **Server-Driven & AI-generated UI:** built ThinkingUI, an A2UI-aligned
+  UI generation engine, before Google standardized the spec.
+- **Large-scale Android architecture:** 70+ table offline content layer
+  for in-flight entertainment, SDUI-driven.
+- **Fintech / Open Banking:** PSD2 & GDPR SDK work from 7 years in banking.
 
-- 🔭 I'm a Senior Android developer.
-- 🌱 I’m currently using [Kotlin](https://kotlinlang.org) and [Jetpack Compose](https://developer.android.com/jetpack/compose).
-- 🌱 I’m currently learning [Kotlin Multiplatform](https://www.jetbrains.com/kotlin-multiplatform) and [Kotlin for Server Side](https://kotlinlang.org/server-side/).
-- 🤓 I'm also Co-Organizer [GDG Istanbul](https://gdg.community.dev/gdg-istanbul/)
-- 💬 Let's talk and work together.
+### Selected work
+- **ThinkingUI** — A2UI-aligned AI UI generation engine ([article](#))
+- **QuickSudoku** — offline Sudoku, live on Play Store
+- **MineField** — Kotlin Multiplatform game with a TDD'd engine (25+ Tests)
+- **PickEat** — Clean Architecture + Hilt reference app
 
-<img src="https://komarev.com/ghpvc/?username=huseyinkaragoz"/>
+### Community
+- **DevFest Istanbul 2025** — main coordinator (~2,500 attendees)
+- **GDG Istanbul** - Co-Organizer (2017 - 2026)
+- **GDG Kütahya** — co-Founder & Co-Organizer (2014 - 2016)
 
-## 📌 GitHub Stats
+I write about Android architecture, KMP, and AI-driven UI on
+[Medium](https://medium.com/@huseyn.karagozz).
 
-![](https://github-profile-trophy.vercel.app/?username=huseyinkaragoz)
+Istanbul · open to relocation (EU / Germany)
 
-## 💻 I'm currently working on
-
-<code><a href="https://developer.android.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></a></code>
-<code><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
-<br>
-
-## 📝 How to access my blog post
-
-[![Static Badge](https://img.shields.io/badge/H%C3%BCseyin%20Karag%C3%B6z-Medium-blue?style=for-the-badge&logo=medium&logoColor=blue)](https://medium.com/@huseyn.karagozz)
-
-
-## 📫 How to reach me
-
-You can find and get touch with me on these accounts!
-
-[![Static Badge](https://img.shields.io/badge/Follow%20On%20LinkedIn-blue?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fhuseyinkaragoz%2F)](https://www.linkedin.com/in/huseyinkaragoz/)
-
-[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/huseyinnkaragoz?label=H%C3%BCseyin%20Karag%C3%B6z)](https://x.com/huseyinnkaragoz/)
-
+[LinkedIn](#) · [Website](https://huseyinkaragoz.com) · [X](#)
