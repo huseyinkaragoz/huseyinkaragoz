@@ -21,8 +21,8 @@ Kotlin · Jetpack Compose · Kotlin Multiplatform · SDUI · Clean/MVI
 
 ### Community
 - **DevFest Istanbul 2025** — main coordinator (~2,500 attendees)
-- **GDG Istanbul** - Co-Organizer (2017 - 2026)
-- **GDG Kütahya** — co-Founder & Co-Organizer (2014 - 2016)
+- **GDG Istanbul** — Co-Organizer (2017 - 2026)
+- **GDG Kütahya** — Co-Founder & Co-Organizer (2014 - 2016)
 
 I write about Android architecture, KMP, and AI-driven UI on
 [Medium](https://medium.com/@huseyn.karagozz).
